@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color amarillo
+color azul
+color black
+color morado
+color naranja
+color rojo
+color verde
+color verdeclaro
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnDelete
+id btnSave
+id btnSearch
+id btnUpdate
+id etAño
+id etNombre
+id etTemporada
+id etTipo
+id lvDoramas
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Demo_Api
+style Theme.Demo_Api
+xml backup_rules
+xml data_extraction_rules

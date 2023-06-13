@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amarillo">#F1C40F</color>
+    <color name="azul">#2471A3 </color>
+    <color name="black">#FF000000</color>
+    <color name="naranja">#E74C3C</color>
+    <color name="rojo">#C0392B</color>
+    <color name="verde">#229954</color>
+    <color name="verdeclaro">#1ABC9C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">demo_Api</string>
+    <style name="Base.Theme.Demo_Api" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Demo_Api" parent="Base.Theme.Demo_Api"/>
+</resources>
